@@ -9,7 +9,7 @@ plugins {
 
 description = 'OGM-johny65'
 //OrientDB version to use:
-ext.orientDbVersion = '3.1.5'
+ext.orientDbVersion = '3.1.6'
 
 
 // ejecutar: gradle idea 
